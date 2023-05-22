@@ -1,7 +1,7 @@
 # Learning Generalizable Agents via Saliency-Guided Features Decorrelation
 
 This repository implements SGFD. The implementation in this repositorory is used in the work "Learning Generalizable Agents via Saliency-Guided Features Decorrelation".
-This repository is heavily based on https://openreview.net/forum?id=zBOI9LFpESK.
+
 
 ```
 # Dependencies
